@@ -1,0 +1,14 @@
+{
+  "bot_name": "Dyno",
+  "bot_content_regex": "\u2b50 \\*\\*(\\d+)\\*\\* \\| #(.+)",
+  "bot_field_regex": "...",
+  "name_mapping": {
+    "old_username": "new_username"
+  },
+  "name_msgs": {
+    "username": 20
+  },
+  "chan_msgs": {
+    "general": 9001
+  }
+}

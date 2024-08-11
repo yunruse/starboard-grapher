@@ -1,0 +1,23 @@
+[
+ {
+  "timestampEdited": "2021-07-13T23:16:05.185+01:00",
+  "content": "⭐ **42** | #general",
+  "author": {
+   "name": "Bot username"
+  },
+  "embeds": [
+   {
+    "timestamp": "2021-04-23T23:56:26.734+01:00",
+    "description": "Look! I'm in an example file! No hands!",
+    "author": {
+     "name": "yunruse"
+    },
+    "fields": [
+     {
+      "value": "**[Click to jump to message!](https://discord.com/)**"
+     }
+    ]
+   }
+  ]
+ }
+]
